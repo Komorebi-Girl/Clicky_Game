@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "name": "Bulbasaur",  
+  "image":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
+  "clickValue": 0
+}, 
+{
+  "id": 2,
+  "name": "Caterpie",  
+  "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png",
+  "clickValue": 0
+}, 
+{
+  "id": 3, 
+  "name": "Blastoise", 
+  "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png",
+  "clickValue": 0
+}, 
+{
+  "id": 4, 
+  "name": "Metapod", 
+  "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png",
+  "clickValue": 0
+}, 
+{
+  "id": 5,
+  "name": "Sandshrew", 
+  "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
+  "clickValue": 0
+  
+}, 
+{
+  "id": 6, 
+  "name": "Ninetails", 
+  "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png",
+  "clickValue": 0
+}, 
+{
+  "id": 7,
+  "name": "Clefairy", 
+  "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
+  "clickValue": 0
+}, 
+{
+  "id": 8, 
+  "name": "Vileplume", 
+  "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/045.png",
+  "clickValue": 0
+}, 
+{
+  "id": 9, 
+  "name": "Machamp", 
+  "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png",
+  "clickValue": 0
+}, 
+{
+  "id": 10, 
+  "name": "Rapidash", 
+  "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
+  "clickValue": 0
+}]
